@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+@media (max-width:1199px) {
+
+.feture_wrapp h2{font-size:20px;}
+.feture_wrapp h3{ font-size:15px;}
+.navbar-nav > li > a { padding-left:9px !important; padding-right:9px !important;}
+.form1{ width:219px;}
+.form3{ width:249px;}
+.place_box{ width:215px;}
+
+.it_thu{ width:33%; float:left;}
+.depat_details{ width:100%;}
+.card_wrapp{ float:none; margin:auto;}
+.card_wrapp_r{ float: none; margin:auto;}
+
+}
+
+@media (max-width:1009px) {
+	footer ul li{ font-size:13px !important;}
+	.form1{ width:219px;}
+	.form3{ width:249px;}
+	
+	
+	
+}
+
+@media (max-width:990px) {
+	.form3{ float:none;}
+	.form1{ width:270px;}
+	.tp_left{ float:none; margin:auto;}
+	.tp_right{ float:none; margin:auto; clear:both;}
+	.most_pp_wrapp{ height:100px;}
+	.no_padd{ padding:0px !important;}
+	 footer ul{ width:80% !important;}
+	 footer ul li{ float:none; border-right:none; padding-bottom:8px; padding-top:8px; background:#1E1E1E; margin-bottom:1px;}
+	
+	
+	/*-------------------------------------*/
+	.mob_na_lef{ float:none!important;}
+	.thu_in_wra{ width:224px !important;}
+	.flight_thu{ width:100% !important;}
+	.place_box{ width:24%; margin-right:1%;}
+	
+	/*-------------------------------------*/
+	.fie_rigt{ width:60%;}
+	.cruise_name_wrapp{ width:39%;}
+	.tot_hid{ display:none;}
+	.mb_np{ padding:0px !important;}
+	.result_time{ margin-bottom:10px;}
+	.resul_ser{ width:100%;}
+	/*-------------------------11-8-2014-----------*/
+	.scroll_wrapp{ overflow:scroll;overflow-y:hidden;}
+	.flight_scr{ width:1000px;}
+	
+	
+}
+
+@media all and (max-width:769px) and (min-width:741px) {	
+    .thu_in_wra{ width:320px!important;}
+	
+
+}
+@media all and (max-width:740px) and (min-width:589px) {	
+    
+	 .thu_in_wra{ width:260px!important;}
+
+}
+
+@media all and (max-width:510px) and (min-width:477px) {	
+
+      .thu_in_wra{ width:200px!important;}
+}
+
+@media (max-width:740px) {
+	
+	.form1{ float:none; width:90%; margin:auto;}
+	.form2{ float:none; width:90%; margin:auto;}
+	.form3{ float:none; width:90%; margin:auto;}
+	.t_drop{ width:100%;}
+	.engine_st{ width:100%;}
+	.st_serch{ width:100%;}
+	 
+/*----------------------------------------*/	
+	.cruise_name_wrapp{ width:100%}
+	.crui_name{ width:50%; float:left;}
+	.crui_name_rigt{ width:45%; float:right;}
+	.fie_rigt{ width:100%; margin-top:10px;}
+	.it_thu{ width:50%; float:left;}
+	.depat_details{ width:700px !important;}
+	.scroo_new{ overflow:scroll;}
+}
+@media (max-width:592px) {
+.tp_right{ display:none;}
+.most_pp_wrapp h1 { width:85%; padding-bottom:10px;}
+.most_pp_wrapp{ height:125px;}
+.fetured_v{ padding:0px !important;}
+.nav-tabs > li{ float:none !important; padding-bottom:2px; }
+.second_details{ width:50%;}
+.third_rate{ width:26%;}
+
+/*---19-7-2014---*/
+.first_st, .second_st{ width:100%; border-right:none; text-align:left; min-height:30px; padding-bottom:10px; margin-top:10px; border-bottom:1px solid #CCC;}
+.time_for{ width:13%;}
+.third_st{ width:44%;}
+
+
+}
+
+@media (max-width:477px) {
+	
+	.thu_in_wra{ width:100%!important;}
+	.owl-next{right:-30px;}
+	.place_box{ width:47%; margin-right:2%;}
+	.scroo{ width:450px;}
+	.fie_rigt{ overflow:scroll; width:100%; margin:auto; float:none;}
+	.card_wrapp{ width:100%;}	
+	.card_wrapp_r{ width:100%;}
+	.cvv_wrapp{ width:auto; margin-top:23px; padding-top:123px;}
+	.second_details{ width:44%;}
+	.third_rate{ width:36%;}
+	
+	}
+	
+	
+@media (max-width:379px) {
+.rate_tag{ top:118px !important;}	
+.tp_left{ width:258px;}
+.independe_ico_wrap{ width:100%;}
+.inde_pin img{ width:70%;}
+.com_purcha{ width:100%; font-size:15px; text-align:center;}
+	
+	
+}
+@media (min-width:992px) {
+	#mob_hide{ display:none;}
+	
+	
+	}
